@@ -5,4 +5,6 @@
 # sudo docker run --name streamlit-container -p 8501:8501 -d streamlitapp:latest 
 
 # from cloud shell
-# gcloud compute firewall-rules create streamlit --allow tcp:8501Ejemplo de aplicación web con streamlit y plotly
+# gcloud compute firewall-rules create streamlit --allow tcp:8501
+
+Ejemplo de aplicación web con streamlit y plotly
