@@ -31,4 +31,10 @@ Paso 9 - Posteriormente hay que inicializar el contenedor para que este acitivo 
 Paso 10 - En la sección denominada "Activate Cloud Shell" de la VM en GCP hay que activar el puerto 8501 para que tenga salida, por lo que hay que ejecutar el siguiente comando:
 # gcloud compute firewall-rules create streamlit --allow tcp:8501
 
+
 Ejemplo de aplicación web con streamlit usando una VM (máquina virtual) en Google Cloud Platform (GCP)
+
+Se anexan los enlaces en donde viene más información sobre como crear una VM, activar Git y Docker y hacer funcionar una aplicación web
+https://cloud.google.com/compute/docs/quickstart-linux
+https://docs.docker.com/engine/install/centos/
+
