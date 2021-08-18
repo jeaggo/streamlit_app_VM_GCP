@@ -34,7 +34,9 @@ Paso 10 - En la sección denominada "Activate Cloud Shell" de la VM en GCP hay q
 
 Ejemplo de aplicación web con streamlit usando una VM (máquina virtual) en Google Cloud Platform (GCP)
 
-Se anexan los enlaces en donde viene más información sobre como crear una VM, activar Git y Docker y hacer funcionar una aplicación web
+Se anexan los enlaces en donde viene más información sobre como crear una VM, activar Git y Docker y hacer funcionar una aplicación web:
+
 https://cloud.google.com/compute/docs/quickstart-linux
+
 https://docs.docker.com/engine/install/centos/
 
